@@ -1,0 +1,17 @@
+Final Steps Thursday Work List:
+
+//publish data from dust and AQ sensors and add widgets for them
+
+//Add data and timestamp on the OLED.
+
+//Display all readings to the OLED together and constantly. 
+
+//Add manual bypass water button for pump.
+
+//add more comments on the code
+
+create some 3D item to hold the flour pot and items
+	-handdraw this first and plan it out
+
+update hackster and github when finished with the above
+
