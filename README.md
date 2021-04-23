@@ -4,6 +4,9 @@
 The purpose of this project is to automate plant watering and track environmental factors within the vacinity of the plant system.
 
 1. Turn the water pump on when the soil sensor detects a certain dryness level.
+		-Water Pump only activates if soil is too dry and only once every 10 minutes
+		-Water Pump 10 minute time can be ignored by pressing the button but a fail-safe will not let you water the plant too much.
+		-Water Pump failsafe can be bypassed via a bypass button at the bottom of the dashboard.
 
 1. Detect the environmental factors of the room.
 		-Temperature
